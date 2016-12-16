@@ -1,6 +1,6 @@
 '''
 Created on 9 Nov 2016
-# Circuit diagram and physical photos @ http://tsuwq.com
+# Circuit diagram and physical photos @ https://tsuwq.com
 @author: tsuwq
 '''
 
