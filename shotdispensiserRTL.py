@@ -135,7 +135,7 @@ def Orange_Juice(Orange_Juice_steps, m2_up_steps, flowrate):
     time.sleep(1)
     
     ms_m1_steps()
-    set_m1_anticw()
+    set_m1_cw()
     rev = 0
     for rev in range (0, Orange_Juice_steps):
             
@@ -191,7 +191,7 @@ def Apple_Juice(Apple_Juice_steps, m2_up_steps, flowrate):
     time.sleep(1)
     
     ms_m1_steps()
-    set_m1_anticw()
+    set_m1_cw()
     rev = 0
     for rev in range (0, Apple_Juice_steps):
             
@@ -247,7 +247,7 @@ def Pear_Juice(Pear_Juice_steps, m2_up_steps, flowrate):
     time.sleep(1)
     
     ms_m1_steps()
-    set_m1_anticw()
+    set_m1_cw()
     rev = 0
     for rev in range (0, Pear_Juice_steps):
             
