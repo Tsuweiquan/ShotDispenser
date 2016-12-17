@@ -1,7 +1,7 @@
 '''
 Created on 9 Nov 2016
 # Circuit diagram and physical photos @ https://tsuwq.com
-### START FROM LEFT TO RIGHT ###
+### START FROM  RIGHT to LEFT###
 @author: tsuwq
 '''
 
